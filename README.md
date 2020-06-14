@@ -7,4 +7,4 @@ The complete list of dependencies can be accessed using the given link below:
 https://github.com/udacity/CppND-Route-Planning-Project/blob/master/README.md
 
 
-If you are unable to install the dependencies, head into Project_Screenshots folder to get the idea of how this project wotks.
+If you are unable to install the dependencies, head into Project_Screenshots folder to get the idea of how this project works.
